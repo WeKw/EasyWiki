@@ -18,7 +18,7 @@ theme:
     accent: 'red'
   include_search_page: false
   search_index_only: true
-  favicon: 'school'
+  favicon: /facicon.ico
 
   logo:
     icon: 'school'
