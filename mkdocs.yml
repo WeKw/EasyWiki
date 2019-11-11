@@ -1,6 +1,15 @@
 site_name: Easy Wiki
+
+repo_name: 'WeKw/EasyWiki'
+repo_url: 'https://github.com/WeKw/EasyWiki'
+
 theme:
-    name: 'material'
-    palette:
-        primary: 'indigo'
-        accent: 'indigo'
+  name: 'material'
+  palette:
+    primary: 'white'
+    accent: 'red'
+
+nav:
+  - 简介:
+    - Getting Started: index.md
+    - 贡献说明: intro/push.md
