@@ -1,7 +1,7 @@
-# 欢迎来到 **`Easy Wiki`**
+# 欢迎来到 **Easy Wiki**
 
-**`Easy Wiki`** 正在建设中...
+**Easy Wiki** 正在建设中...
 
-欢迎为 **`Easy Wiki`** 贡献！
+欢迎为 **Easy Wiki** 贡献！
 
-想要贡献资料请移步左侧 [**`贡献说明`**](/intro/push.md)
+想要贡献资料请移步左侧 [**贡献说明**](/intro/push/)
