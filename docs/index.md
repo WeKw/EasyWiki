@@ -6,4 +6,4 @@
 
 想要贡献文章请移步左侧 [**贡献说明**](/intro/push/)
 
-感谢 [**CTF Wiki**](https://ctf-wiki.github.io/ctf-wiki/) 以及 [**OI-Wiki**](https://oi-wiki.org/) 提供的灵感
+鸣谢 [**CTF Wiki**](https://ctf-wiki.github.io/ctf-wiki/) 以及 [**OI-Wiki**](https://oi-wiki.org/) 提供的灵感
