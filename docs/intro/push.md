@@ -4,5 +4,5 @@
 
 项目网址：<https://github.com/WeKw/EasyWiki>
 
-    ??? + warning
-        test
+???+ warning
+    test
