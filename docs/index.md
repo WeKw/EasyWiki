@@ -1,6 +1,6 @@
 title: Getting start
 
-# 欢迎来到 **``**
+# 欢迎来到 **`Easy Wiki`**
 
 **`Easy Wiki`** 正在建设中...
 
