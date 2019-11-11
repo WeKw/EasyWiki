@@ -4,5 +4,7 @@
 
 项目网址：<https://github.com/WeKw/EasyWiki>
 
+
+
 ???+ warning
-    test
+    请在贡献前阅读 [**OI-Wiki**----**如何参与**](https://oi-wiki.org/intro/htc/)
