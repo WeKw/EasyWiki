@@ -1,0 +1,6 @@
+site_name: Easy Wiki
+theme:
+    name: 'material'
+    palette:
+        primary: 'indigo'
+        accent: 'indigo'
